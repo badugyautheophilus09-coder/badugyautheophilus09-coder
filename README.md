@@ -1,6 +1,6 @@
 # Hi there, I'm Theophilus Badu Gyau! 
 
-<img width="997" height="1002" alt="image" src="https://github.com/user-attachments/assets/22472782-f659-4a78-8ce8-663a3d19495e" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/22472782-f659-4a78-8ce8-663a3d19495e" />
 
 ## About Me 🚀
 
